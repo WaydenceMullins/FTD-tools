@@ -2,7 +2,7 @@ External tools for From The Depths
 ## Block Data
 BlockDataToTemplateBlocks.py reads data from every block, formats it as it is displayed in-game, outputs as [FTD Wiki](https://fromthedepths.wiki.gg/) infoboxes and into CSV file, which can also be found on Google Sheets: [Block Data as of game version 4.2.5](https://docs.google.com/spreadsheets/d/1gyJk6aXZHL1OD40w7u5dHzLXasJrUAi0EHHD6h8X6u8).
 ## Wiki Icons
-Tools used to make block icons. [GIMP3](https://www.gimp.org/downloads/) and [AutoHotkey](https://www.autohotkey.com/) are needed.
+Tools used to make block icons. [GIMP3](https://www.gimp.org/downloads/) and [AutoHotkey](https://www.autohotkey.com/) are required.
 
 1. Spawn "greyscreen holder" into the game, spawn one of the greyscreen vehicles, attach it to the tractor beam
 2. Turn off fullsreen, resize game window using AHK's Window Spy tool (usually to 900x900)

@@ -1,5 +1,5 @@
 External tools for From The Depths
-## wiki_data_export
+## game_data_to_wiki
 ### BlockDataToTemplateBlocks.py
 Reads data from every block, formats it as it is displayed in-game, outputs as [FTD Wiki](https://fromthedepths.wiki.gg/) infoboxes and into CSV file
 
